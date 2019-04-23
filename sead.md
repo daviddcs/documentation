@@ -1,5 +1,21 @@
-# SEAD howto
+# Suppression of enemy air defenses
 
-Now this should be better, right?
 
-I wonder why Jekyll dosent add this file on the right hand side.
+applies to: | ttp
+-------- | ---------
+type: | n/a
+version: | wip
+publish date: | 23.4.2019
+Document Responsible: | David
+Summary of changes: | n/a
+Reference: | n/a
+
+## Contents
+Introduction
+Abbrevations
+Definitions
+Suppression of enemy air defenses
+Planning
+Execution
+SEAD Examples
+Annexes
