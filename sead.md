@@ -12,17 +12,10 @@ Reference: | n/a
 
 ## Contents
 Introduction
-
 Abbrevations
-
 Definitions
-
-Suppression of enemy air defenses
-
+Suppression of enemy air defenses (SEAD)
 Planning
-
 Execution
-
 SEAD Examples
-
 Annexes
