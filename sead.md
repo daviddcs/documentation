@@ -8,10 +8,10 @@ version: | wip
 publish date: | 23.4.2019
 Document Responsible: | David
 Summary of changes: | n/a
-Reference: | n/a
+References: | Setting the context by James R. Burngess, Lt Col, USAF - MCWP 3-22.2
 
 ## Contents
-* Introduction
+* [Introduction](TTP_SEAD_Introduction.md)
 * Abbrevations
 * Definitions
 * Suppression of enemy air defenses (SEAD)
