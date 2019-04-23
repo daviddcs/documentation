@@ -11,11 +11,11 @@ Summary of changes: | n/a
 Reference: | n/a
 
 ## Contents
-Introduction
-Abbrevations
-Definitions
-Suppression of enemy air defenses (SEAD)
-Planning
-Execution
-SEAD Examples
-Annexes
+* Introduction
+* Abbrevations
+* Definitions
+* Suppression of enemy air defenses (SEAD)
+* Planning
+* Execution
+* SEAD Examples
+* Annexes
