@@ -5,9 +5,9 @@ applies to: | ttp
 -------- | ---------
 type: | n/a
 version: | wip
-publish date: | 23.4.2019
+publish date: | 25.4.2019
 Document Responsible: | David
-Summary of changes: | n/a
+Summary of changes: | Added introduction, 
 References: | Setting the context by James R. Burngess, Lt Col, USAF - MCWP 3-31.2
 
 ## Contents
