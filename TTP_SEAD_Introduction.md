@@ -14,9 +14,9 @@ SEAD missions is divided into two primary categories.
  
 ### Immediate RSEAD
 
-Immidiate RSEAD occurs when a friendly asset locates an enemy air defense asset and targets them while in the process of conducting another mission. One example is a KA-50 on a AR mission, who locates, identifies and engages a SA-8 during an AR tasking. Immediate RSEAD affords the timeliest response to a "pop-up" enemy air defense asset. If conducted successfully, there is no further need to locate and engage the targeted threat system.
+Immediate RSEAD occurs when a friendly asset locates an enemy air defense asset and targets them while in the process of conducting another mission. One example is a KA-50 on a AR mission, who locates, identifies and engages a SA-8 during an AR tasking. Immediate RSEAD affords the timeliest response to a "pop-up" enemy air defense asset. If conducted successfully, there is no further need to locate and engage the targeted threat system.
 
-Disadvatages
+Disadvantages
 * The execution of a hasty, unplanned and possibly uncoordinated attack.
 * Lack of use of combined arms.
 * Possible requirement for attackers to enter or continue operating in enemy SAM WEZ.
@@ -29,15 +29,46 @@ Disadvantages include the possible employment of less then optimum ordnance and 
 
 ### Alert RSEAD
 
+Alert RSEAD responds to threats requiring dedicated RSEAD planning. Planners may use alert RSEAD against a particular surface-to-air system, when requiring a multi-axis attack, or after having discovered multiple previously unprosecuted air defense assets. Alert SEAD can be staged airborne or on strip-alert. Advantages include: dedicated planning, proper weaponeering, proper platforms and no assets diverted from other missions. Disadvantages include the lack of a timely response, available dedicated SEAD assets.
+
 ## Missions
 
 ### Concurrent
 
+Concurrent SEAD implies that destructive or disruptive efforts occur simultaneously with other missions such as AI, AR, or CAS in a combined arms approach. If the enemy engages the targets entering his defended space, his weapon systems become vulnerable to the SEAD assets. If the enemy does not respond, the supported mission may likely destroy his defended targets or otherwise accomplish the mission.
+
 ### Sequential
+
+Sequential SEAD implies that the destructive or disruptive efforts are preemptive. These efforts must precede other mission(s) to introduce a window of opportunity for other assets to accomplish their mission. Sequential SEAD if often associated with an operation intended to systematically degrade an enemy integrated air defense system (IADS) as was done in Operation Desert Storm and Operation Allied Force.
 
 ## Courses of Action
 
 ### Destructive
 
+Destructive (lethal) SEAD is classified as those actions taken to suppress enemy air defenses by destroying the targeted system. Mission objectives, threat system capabilities, and friendly asset capabilities influence the courses of action (COAs). Destructive SEAD includes;
+* Surface delivered fire (ground or naval)
+* Stand-off air-to-surface weapons.
+* Conventional air-to-ground munitions or electronic attack (EA) in the form of antiradiation missiles (ARMs)
+
 ### Disruptive
+
+Disruptive (nonlethal) SEAD includes EA (jamming or bulk chaff) to temporarily deny, degrade, deceive, delay or neutralize the targeted system. While intended to be destructive HARMs can also be disruptive. Disruptive SEAD's intent is not necessarily to destroy a system, but rather to reduce its capability to a level that allows the accomplishment of mission objectives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
