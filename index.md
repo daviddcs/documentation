@@ -1,3 +1,5 @@
 #Hello World
 
-can I link to [SEAD](sead.md) pherhaps?
+[Flight Kneeboard](https://daviddcs.github.io/kneeboard/)
+[Directing Kneeboard](https://daviddcs.github.io/directing/)
+[SEAD TTP WiP](sead.md)
