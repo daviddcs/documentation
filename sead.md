@@ -12,7 +12,7 @@ References: | Setting the context by James R. Burngess, Lt Col, USAF - MCWP 3-31
 
 ## Contents
 * [Introduction](TTP_SEAD_Introduction.md)
-* Abbrevations
+* [Abbrevations](TTP_SEAD_Abbverations.md)
 * Definitions
 * Suppression of enemy air defenses (SEAD)
 * Planning
