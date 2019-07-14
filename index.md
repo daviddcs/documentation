@@ -6,4 +6,4 @@
 
 [SEAD TTP WiP](sead.md)
 
-[494th SOP GitVersion](132-494-SOP-1810_DRAFT.md)
+[494th SOP GitVersion](/494SOP/132-494-SOP-1810_DRAFT.md)
